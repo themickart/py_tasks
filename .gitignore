@@ -1,0 +1,7 @@
+.idea
+*.csv
+*.db
+report.pdf
+report.xlsx
+graph.png
+venv
